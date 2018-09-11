@@ -3,7 +3,8 @@
  * Authors: Cynthia He, Laurenz Holcik, and Evan Howell
  * Submission Date:
  *
- * Purpose:
+ * Purpose: A Java application that helps a student calculate his/her current grade in 
+ * the course as well as finding the average score (s)he will need to achieve a certain letter grade.
  *
  * Statement of Academic Honesty:
  *
